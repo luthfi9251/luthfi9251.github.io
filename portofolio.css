@@ -300,7 +300,7 @@ nav ul {
 
 /*................................ contact ............*/
 .contact-me{
-    background-color: #0E131F;
+    background-color: #222835;
 }
 
 .contact-me .contact{
@@ -310,6 +310,9 @@ nav ul {
     text-align: center;
 }
 
+i {
+    font-size: 4em;
+}
 
 .icon-container{
     display: flex;
@@ -322,6 +325,10 @@ nav ul {
     max-height: 70px;
     overflow: hidden;
  
+}
+
+.link-container a{
+    color: white;
 }
 
 .link-container a img{
